@@ -1,6 +1,9 @@
 ### Ultimate Door System
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pjlIkv-U2qY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Watch the Tutorial Video
+[Click here to watch the video on YouTube!](https://www.youtube.com/watch?v=pjlIkv-U2qY)
+
+## [Installation]([https://www.youtube.com/watch?v=pjlIkv-U2qY](https://www.youtube.com/watch?v=qLU256pV9F0))
 
 
 Welcome to the "Ultimate Door Systems" GitHub repository! 
