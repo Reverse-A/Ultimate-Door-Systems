@@ -1,9 +1,9 @@
 ### Ultimate Door System
 
 ## Watch the Tutorial Video
-[Click here to watch the video on YouTube!](https://www.youtube.com/watch?v=pjlIkv-U2qY)
+[👉 Click here to watch the tutorial on YouTube!](https://www.youtube.com/watch?v=pjlIkv-U2qY)
 
-## [Installation]([https://www.youtube.com/watch?v=pjlIkv-U2qY](https://www.youtube.com/watch?v=qLU256pV9F0))
+[🚀 Click here for the Installation Guide](https://www.youtube.com/watch?v=qLU256pV9F0&t=2s)
 
 
 Welcome to the "Ultimate Door Systems" GitHub repository! 
